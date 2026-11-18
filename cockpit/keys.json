@@ -1,0 +1,6 @@
+{
+  "mod:cockpit-files": {
+    "cmd-s": "cockpit-files.save",
+    "ctrl-s": "cockpit-files.save"
+  }
+}

@@ -1,0 +1,2 @@
+git-pull-request.svg and git-pull-request-draft.svg: Octicons (https://github.com/primer/octicons), MIT License, Copyright (c) GitHub Inc.
+chevron-*.svg: copied from the cockpit-files mod (Herdr, Apache-2.0).
